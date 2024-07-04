@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">737096828447-fklrjbial695dc4dn84b9jd9ecamqq4e.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">737096828447</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdEsDaj0xv8SWdFCgyj-g0xRxPo5jseCk</string>
+    <string name="google_app_id" translatable="false">1:737096828447:android:a000e6c03a46c7166d372a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdEsDaj0xv8SWdFCgyj-g0xRxPo5jseCk</string>
+    <string name="google_storage_bucket" translatable="false">smartalerts-60fc3.appspot.com</string>
+    <string name="project_id" translatable="false">smartalerts-60fc3</string>
+</resources>

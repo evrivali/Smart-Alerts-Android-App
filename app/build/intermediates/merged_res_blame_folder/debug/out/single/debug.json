@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_recycler_view_row.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\recycler_view_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_user_emergency_activity.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_user_emergency_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable-v24_icon.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_make_alert.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_make_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_ic_baseline_image_not_supported_24.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\ic_baseline_image_not_supported_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_alert_img.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\alert_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_ic_baseline_warning_24_green.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\ic_baseline_warning_24_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_user_menu.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_user_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_warning_man.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\warning_man.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_signup_img.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\signup_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_employee_menu.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_employee_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_user_emergency_form.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_user_emergency_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_man.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\man.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_ic_baseline_warning_24_red.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\ic_baseline_warning_24_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_ic_baseline_warning_24_yellow.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\ic_baseline_warning_24_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-hdpi_icon_round.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_rectangle_10.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\rectangle_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\layout_activity_statistics.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-mdpi_icon_round.png.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\drawable_woman.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\drawable\\woman.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-merged_res-39:\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-debug-40:\\mipmap-anydpi-v26\\icon.xml"
+    }
+]

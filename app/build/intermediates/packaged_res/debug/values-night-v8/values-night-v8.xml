@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartAlerts" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple2</item>
+        <item name="colorPrimaryVariant">@color/red1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/red2</item>
+        <item name="colorSecondaryVariant">@color/purple1</item>
+        <item name="colorOnSecondary">@color/grey</item>
+        
+        <item name="android:statusBarColor">@color/purple2</item>
+        
+    </style>
+</resources>

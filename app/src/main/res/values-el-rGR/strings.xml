@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAlerts</string>
+    <string name="welcome">Καλωσορίσατε στο SmartAlerts!</string>
+    <string name="logIn">Σύνδεση</string>
+    <string name="locationLabel">Εντοπισμός...</string>
+    <string name="fillInUsernameLabel">Συμπληρώστε το όνομα χρήστη:</string>
+    <string name="fillInPasswordLabel">Συμπληρώστε τον κωδικό πρόσβασης:</string>
+    <string name="dontHaveAnAccountLabel">Δεν έχετε λογαριασμό;</string>
+    <string name="signUpLabel">Εγγραφείτε!</string>
+    <string name="emailLabel">Ηλ. Ταχυδρομείο</string>
+    <string name="nameLabel">Όνομα</string>
+    <string name="surnameLabel">Επώνυμο</string>
+    <string name="passwordLabel">Κωδικός</string>
+    <string name="emailExample">πχ: ονομα@email.com</string>
+    <string name="submitEmergencyFormLabel">Φόρμα υποβολής περιστατικού</string>
+    <string name="selectEmergencyTypeLabel">Επιλογή τύπου περιστατικού:</string>
+    <string name="flood">Πλυμμήρα</string>
+    <string name="fire">Φωτιά</string>
+    <string name="earthquake">Σεισμός</string>
+    <string name="other">Άλλο</string>
+    <string name="emergencyExample">πχ: Τυφώνας</string>
+    <string name="commentsLabel">Σχόλια</string>
+    <string name="selectImageLabel">Επιλογή Φωτογραφίας:</string>
+    <string name="submitEmergencyButton">Υποβολή περιστατικού</string>
+    <string name="currentAlerts">Τρέχοντα περιστατικα</string>
+    <string name="emergencyLevel">Επίπεδο Κινδύνου:</string>
+    <string name="emergencyType">Τύπος Κινδύνου:</string>
+    <string name="emergencyLocation">Tοποθεσία Κινδύνου</string>
+    <string-array name="emergencyTypes">
+        <item>Πλημμύρα</item>
+        <item>Πυρκαγία</item>
+        <item>Σεισμός</item>
+        <item>Ανεμοστρόβιλος</item>
+    </string-array>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="tornado">Τυφώνας</string>
+    <string name="notify">Αποστολή Ειδοποίησης</string>
+    <string name="range">Ευρος Ειδοποίησης</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="ignore">Αγνόησε</string>
+    <string name="rangeSmall">Ευρος</string>
+    <string name="notifySend">Αποστολή Ειδοποίησης!</string>
+    <string name="dangerNearby">Κίνδυνος Κοντά</string>
+    <string name="error1">Το SmartAlerts δεν δουλεύει σωστά</string>
+    <string name="error2">Παρακαλώ βγείτε έξω για να μπορέσουμε να σας εντοπίσουμε</string>
+    <string name="resolve">Διευθέτιση</string>
+    <string name="locatingErrorMessage">Περιμένετε ένα λεπτό, εντοπίζουμε την τοποθεσία σας!</string>
+    <string name="failErrorMessage">Αποτυχία</string>
+    <string name="emptyFieldErrorMessage">Συμπληρώστε όλα τα πεδία</string>
+    <string name="saveMessage">"Επιτυχής αποθήκευση δεδομένων χρήστη "</string>
+    <string name="imageUploadedMessage">Η φωτογραφία αποθηκεύτηκε!</string>
+    <string name="currentLocation">Τρέχουσα τοποθεσία</string>
+    <string name="grantAccessErrorMessage">Για να έχετε πρόσβαση στον αποθηκευτηκό χώρο πρέπει να χορηγήσετε άδειες</string>
+    <string name="registrationSuccessful">Επιτυχία εγγραφής</string>
+    <string name="registrationFailed">Αποτυχία εγγραφής. O κωδικός πρέπει να έχει τουλάχιστον 6 χαρακτήρες και το email δεν πρέπει να χρησιμοποιείται απο άλλον χρήστη</string>
+    <string name="locationAccess">Πρέπει να χορηγήσετε άδεια για εντοπισμό τοποθεσία για να συνεχίσετε</string>
+    <string name="warning">Προσοχή</string>
+    <string name="permissionMessage1">Οι ειδοποιήσεις καταστροφών είναι απνεργοποιημένες. Παρακαλώ δεχτείτε την άδεια τοποθεσίας.</string>
+</resources>

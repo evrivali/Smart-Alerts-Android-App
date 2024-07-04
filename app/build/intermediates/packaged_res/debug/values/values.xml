@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emergencyTypes">
+        <item>Flood</item>
+        <item>Fire</item>
+        <item>Earthquake</item>
+        <item>Tornado</item>
+    </string-array>
+    <color name="grey">#CACACA</color>
+    <color name="grey2">#E4E4E4</color>
+    <color name="icon_background">#2F2E41</color>
+    <color name="purple1">#3F3D56</color>
+    <color name="purple2">#2F2E41</color>
+    <color name="red1">#B73E3E</color>
+    <color name="red2">#850000</color>
+    <color name="red3">#FFB6B6</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SmartAlerts</string>
+    <string name="commentsLabel">Comments:</string>
+    <string name="currentAlerts">Current Alerts</string>
+    <string name="currentLocation">Current Location</string>
+    <string name="dangerNearby">Danger Nearby!</string>
+    <string name="default_web_client_id" translatable="false">737096828447-fklrjbial695dc4dn84b9jd9ecamqq4e.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="dontHaveAnAccountLabel">Don\'t have an account?</string>
+    <string name="earthquake">Earthquake</string>
+    <string name="emailExample">example: user@email.com</string>
+    <string name="emailLabel">E-mail</string>
+    <string name="emergencyExample">example: Tornado</string>
+    <string name="emergencyLevel">Emergency level:</string>
+    <string name="emergencyLocation">Emergency Location:</string>
+    <string name="emergencyType">Emergency Type:</string>
+    <string name="emptyFieldErrorMessage">Fill in all fields</string>
+    <string name="error1">SmartAlerts Isn\'t Working properly</string>
+    <string name="error2">Please go outside so we can pick up ur location.</string>
+    <string name="failErrorMessage">Failed</string>
+    <string name="fillInPasswordLabel">Fill in Password:</string>
+    <string name="fillInUsernameLabel">Fill in username:</string>
+    <string name="fire">Fire</string>
+    <string name="flood">Flood</string>
+    <string name="gcm_defaultSenderId" translatable="false">737096828447</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdEsDaj0xv8SWdFCgyj-g0xRxPo5jseCk</string>
+    <string name="google_app_id" translatable="false">1:737096828447:android:a000e6c03a46c7166d372a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdEsDaj0xv8SWdFCgyj-g0xRxPo5jseCk</string>
+    <string name="google_storage_bucket" translatable="false">smartalerts-60fc3.appspot.com</string>
+    <string name="grantAccessErrorMessage">You have to grant permissions to access storage</string>
+    <string name="ignore">Ignore</string>
+    <string name="imageUploadedMessage">Image Uploaded!</string>
+    <string name="locatingErrorMessage">Wait a minute, we\'re locating you!</string>
+    <string name="locationAccess">You need to permit location access to continue</string>
+    <string name="locationLabel">Locating You...</string>
+    <string name="logIn">LogIn</string>
+    <string name="logout">Logout</string>
+    <string name="nameLabel">Name</string>
+    <string name="notify">Send Notification</string>
+    <string name="notifySend">Notification Send!</string>
+    <string name="other">Other</string>
+    <string name="passwordLabel">Password</string>
+    <string name="permissionMessage1">Disaster notifications disabled. Please allow location permissions.</string>
+    <string name="project_id" translatable="false">smartalerts-60fc3</string>
+    <string name="range">Notification Range</string>
+    <string name="rangeSmall">Range</string>
+    <string name="registrationFailed">Registration Failed. Your Password needs to be at least 6 characters long</string>
+    <string name="registrationSuccessful">Successfully Registered</string>
+    <string name="resolve">Resolve</string>
+    <string name="saveMessage">User Data Saved</string>
+    <string name="selectEmergencyTypeLabel">Select Emergency Type:</string>
+    <string name="selectImageLabel">Select Image:</string>
+    <string name="signUpLabel">Sign Up!</string>
+    <string name="submitEmergencyButton">Submit Emergency</string>
+    <string name="submitEmergencyFormLabel">Submit Emergency Form</string>
+    <string name="surnameLabel">Surname</string>
+    <string name="tornado">Tornado</string>
+    <string name="warning">Warning</string>
+    <string name="welcome">Welcome To SmartAlerts!</string>
+    <style name="Theme.SmartAlerts" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple2</item>
+        <item name="colorPrimaryVariant">@color/red1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/red2</item>
+        <item name="colorSecondaryVariant">@color/purple1</item>
+        <item name="colorOnSecondary">@color/grey</item>
+        
+        <item name="android:statusBarColor">@color/purple2</item>
+        
+    </style>
+</resources>

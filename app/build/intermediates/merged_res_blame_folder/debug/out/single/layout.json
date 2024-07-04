@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.smartalerts.app-mergeDebugResources-38:/layout/activity_user_menu.xml",
+        "source": "com.example.smartalerts.app-main-41:/layout/activity_user_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_make_alert.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_make_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_user_menu.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_user_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_user_emergency_form.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_user_emergency_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_statistics.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_user_emergency_activity.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_user_emergency_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\recycler_view_row.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\recycler_view_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_employee_menu.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_employee_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\evriv\\.gradle\\daemon\\7.4\\com.example.smartalerts.app-main-41:\\layout\\activity_main.xml"
+    }
+]

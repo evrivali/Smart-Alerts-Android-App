@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">SmartAlerts</string>
+    <string name="welcome">Welcome To SmartAlerts!</string>
+    <string name="logIn">LogIn</string>
+    <string name="locationLabel">Locating You...</string>
+    <string name="fillInUsernameLabel">Fill in username:</string>
+    <string name="fillInPasswordLabel">Fill in Password:</string>
+    <string name="dontHaveAnAccountLabel">Don\'t have an account?</string>
+    <string name="signUpLabel">Sign Up!</string>
+    <string name="emailLabel">E-mail</string>
+    <string name="nameLabel">Name</string>
+    <string name="surnameLabel">Surname</string>
+    <string name="passwordLabel">Password</string>
+    <string name="emailExample">example: user@email.com</string>
+    <string name="submitEmergencyFormLabel">Submit Emergency Form</string>
+    <string name="selectEmergencyTypeLabel">Select Emergency Type:</string>
+    <string name="flood">Flood</string>
+    <string name="fire">Fire</string>
+    <string name="earthquake">Earthquake</string>
+    <string name="other">Other</string>
+    <string name="emergencyExample">example: Tornado</string>
+    <string name="commentsLabel">Comments:</string>
+    <string name="selectImageLabel">Select Image:</string>
+    <string name="submitEmergencyButton">Submit Emergency</string>
+    <string name="currentAlerts">Current Alerts</string>
+    <string name="emergencyLevel">Emergency level:</string>
+    <string name="emergencyType">Emergency Type:</string>
+    <string name="emergencyLocation">Emergency Location:</string>
+
+    <string-array name="emergencyTypes">
+        <item>Flood</item>
+        <item>Fire</item>
+        <item>Earthquake</item>
+        <item>Tornado</item>
+    </string-array>
+    <string name="logout">Logout</string>
+    <string name="tornado">Tornado</string>
+    <string name="notify">Send Notification</string>
+    <string name="range">Notification Range</string>
+    <string name="delete">Delete</string>
+    <string name="ignore">Ignore</string>
+    <string name="rangeSmall">Range</string>
+    <string name="notifySend">Notification Send!</string>
+    <string name="dangerNearby">Danger Nearby!</string>
+    <string name="error1">SmartAlerts Isn\'t Working properly</string>
+    <string name="error2">Please go outside so we can pick up ur location.</string>
+    <string name="resolve">Resolve</string>
+    <string name="locatingErrorMessage">Wait a minute, we\'re locating you!</string>
+    <string name="failErrorMessage">Failed</string>
+    <string name="emptyFieldErrorMessage">Fill in all fields</string>
+    <string name="saveMessage">User Data Saved</string>
+    <string name="imageUploadedMessage">Image Uploaded!</string>
+    <string name="currentLocation">Current Location</string>
+    <string name="grantAccessErrorMessage">You have to grant permissions to access storage</string>
+    <string name="registrationSuccessful">Successfully Registered</string>
+    <string name="registrationFailed">Registration Failed. Your Password needs to be at least 6 characters long</string>
+    <string name="locationAccess">You need to permit location access to continue</string>
+    <string name="warning">Warning</string>
+    <string name="permissionMessage1">Disaster notifications disabled. Please allow location permissions.</string>
+</resources>
